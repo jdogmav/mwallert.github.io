@@ -222,7 +222,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto;
 }
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
-  height: 100%;
+  height: 250px;
   width: 100%;
 }
 .portfolio-box .portfolio-box-caption {
