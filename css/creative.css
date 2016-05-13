@@ -110,7 +110,7 @@ aside {
   .dragon {
     margin-top: 50px;
   }
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .dragon {
     margin-top: 0;
   }
