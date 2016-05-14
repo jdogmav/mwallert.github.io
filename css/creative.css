@@ -70,7 +70,7 @@ aside {
   padding: 0;
 }
 .navbar-default {
-  background-color: white;
+  background-color: transparent;
   border-color: rgba(34, 34, 34, 0.05);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
@@ -107,11 +107,12 @@ aside {
 .navbar-default .nav > li.active > a:focus:hover {
   background-color: transparent;
 }
-  .dragon {
-    margin-top: 50px;
-  }
+.wolf {
+  margin-top: 0px;
+  height: 400px;
+}
 @media screen and (min-width: 768px) {
-  .dragon {
+  .wolf {
     margin-top: 0;
   }
   .navbar-default {
